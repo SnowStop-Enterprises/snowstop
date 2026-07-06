@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Block nothing important; allow full crawl of the marketing site.
+Disallow: /uploads/index%20(5).html
+
+Sitemap: https://www.snowstop.ca/sitemap.xml
